@@ -1,6 +1,6 @@
 <div align="left">
   <img 
-    src="https://media.discordapp.net/attachments/1221203500369711186/1311361950524903484/Group_2.png?ex=682567bc&is=6824163c&hm=6599412eda5c227c867c2803ea8a61fa2773163f693ab26a1ad821611cb7beee&=&format=webp&quality=lossless" 
+    src="https://github.com/CookieSong-Devs/.github/raw/refs/heads/main/profile/CookieSong%20Banner%20by%20lirus_12345%20%7C%20lavecat" 
     alt="CookieSong Banner" 
     style="border-radius: 10px;">
   <div>&nbsp;</div>
