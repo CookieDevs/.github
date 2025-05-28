@@ -7,7 +7,7 @@
 </div>
 
 ## 🍪 Welcome to CookieDevs !
-Welcome to CookieSong Devs, the official GitHub organization for all things CookieSong or other projet ( Music , ect ) . This organization hosts our ongoing projects and is dedicated to collaboration and innovationt.
+Welcome to CookieDevs, the official GitHub organization for all things CookieSong or other projet ( Music , ect ) . This organization hosts our ongoing projects and is dedicated to collaboration and innovationt.
 
 ## 💼 Our Teams 
 - @lavecat : Owner and founder of CookieSong 
