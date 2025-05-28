@@ -1,7 +1,7 @@
 <div align="left">
   <img 
-    src="https://github.com/CookieDevs/.github/raw/refs/heads/main/profile/CookieSong%20Banner%20by%20lirus_12345%20%7C%20lavecat" 
-    alt="CookieSong Banner" 
+    src="https://github.com/CookieDevs/.github/blob/main/profile/CookieDev%20%20banner%20by%20lirus_12345%20%7C%20lavecat.png" 
+    alt="CookieDevs Banner" 
     style="border-radius: 10px;">
   <div>&nbsp;</div>
 </div>
