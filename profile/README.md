@@ -6,7 +6,7 @@
   <div>&nbsp;</div>
 </div>
 
-## 🍪 Welcome to CookieSong Devs !
+## 🍪 Welcome to CookieDevs !
 Welcome to CookieSong Devs, the official GitHub organization for all things CookieSong. This organization hosts our ongoing projects and is dedicated to collaboration and innovationt.
 
 ## 💼 Our Teams 
