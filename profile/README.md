@@ -1,13 +1,13 @@
 <div align="left">
   <img 
-    src="https://github.com/CookieSong-Devs/.github/raw/refs/heads/main/profile/CookieSong%20Banner%20by%20lirus_12345%20%7C%20lavecat" 
+    src="https://github.com/CookieDevs/.github/raw/refs/heads/main/profile/CookieSong%20Banner%20by%20lirus_12345%20%7C%20lavecat" 
     alt="CookieSong Banner" 
     style="border-radius: 10px;">
   <div>&nbsp;</div>
 </div>
 
 ## 🍪 Welcome to CookieDevs !
-Welcome to CookieSong Devs, the official GitHub organization for all things CookieSong. This organization hosts our ongoing projects and is dedicated to collaboration and innovationt.
+Welcome to CookieSong Devs, the official GitHub organization for all things CookieSong or other projet ( Music , ect ) . This organization hosts our ongoing projects and is dedicated to collaboration and innovationt.
 
 ## 💼 Our Teams 
 - @lavecat : Owner and founder of CookieSong 
