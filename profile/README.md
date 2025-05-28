@@ -14,7 +14,7 @@ Welcome to CookieDevs, the official GitHub organization for all things CookieSon
 
 ## 📣 Contribution Guidelines
 
-To contribute to any of the CookieSong projects, please adhere to the following guidelines:
+To contribute to any of the CookieSong projects or other CookieDevs project, please adhere to the following guidelines:
 
 1. **Fork the repository**: If you're working on a new feature or bug fix, make a pull request to the concerned project.
 2. **Write tests**: Whenever possible, write tests to ensure the stability of the code.
