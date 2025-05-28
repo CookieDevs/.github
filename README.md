@@ -1,1 +1,2 @@
-# CookieSong-Devs
+# CookieDevs
+.github
