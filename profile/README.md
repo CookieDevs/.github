@@ -25,5 +25,5 @@ To contribute to any of the CookieSong projects or other CookieDevs project, ple
 
 ## 🔗 Links 
 - CookieSong Discord: https://discord.gg/kCs8E7Cshg
-- CookieSong WebSite: https://cookiesong.fr/
+- CookieSong WebSite: X
 - CookieSong Status: https://cookiesong.upbot.app/
